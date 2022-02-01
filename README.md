@@ -7,4 +7,5 @@
 * Provided category sales statistics through Excel Pivot Tables and data models to prevent miscalculations
 
 * Created an executive summary sales dashboard in Power BI with the ability to segment sales by category, product, region, and time
+
 ![](images/Chuong_SalesDashboard_Portfolio.jpg)
