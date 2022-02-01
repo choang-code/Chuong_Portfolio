@@ -8,4 +8,6 @@
 
 * Created an executive summary sales dashboard in Power BI with the ability to segment sales by category, product, region, and time
 
-![](images/Chuong_SalesDashboard_Portfolio.jpg)
+<p align="center">
+  <img src="images/Chuong_SalesDashboard_Portfolio.jpg" />
+</p>
