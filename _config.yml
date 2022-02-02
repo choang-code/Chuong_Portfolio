@@ -1,1 +1,10 @@
-theme: jekyll-theme-slate
+title: Chuong Hoang # your name (or website title) here
+logo: "/images/Chuong_Hoang_UCI_3_cropped.jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Aspiring business analyst with consulting experience
+  <br><br>
+  Excel & PowerBI 
+  <br><br>
+  <a href="https://www.linkedin.com/in/chuonghoang/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
