@@ -1,4 +1,4 @@
-# [Sales Data Analysis and Visualization](https://github.com/choang-code/sales-analysis)
+# [Sales Data Analysis and Visualization](project-1.md)
 
 * Used Excel, Power Query, and Power BI to analyze over 185,000 sales records over the course of a year
 
